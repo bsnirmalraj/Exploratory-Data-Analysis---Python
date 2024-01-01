@@ -24,4 +24,4 @@ Conclusion
 
 Combining the insights from the various graphs, it's evident that the ideal target audience for marketing efforts comprises married women aged 26-35 years, residing in Uttar Pradesh, Maharashtra and Karnataka. This demographic, primarily employed in the IT, Healthcare and Aviation sectors, demonstrates a higher likelihood of purchasing products from the Food, Clothing and Electronics categories.
 
-This GitHub project provides a comprehensive overview of customer demographics and preferences, serving as a valuable resource for strategic decision-making and targeted marketing campaigns.
+This project provides a comprehensive overview of customer demographics and preferences, serving as a valuable resource for strategic decision-making and targeted marketing campaigns.
