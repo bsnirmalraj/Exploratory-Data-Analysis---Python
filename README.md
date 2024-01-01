@@ -1,6 +1,3 @@
-Project Report
-
-Project Overview
 This project focuses on analysing and visualizing Diwali Sales Customer Data to gain insights into purchasing patterns and demographics. The dataset used for this analysis includes information on buyers, their demographics and their purchasing behaviour.
 
 Key Findings
